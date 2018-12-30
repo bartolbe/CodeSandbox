@@ -1,6 +1,6 @@
 void LearningGitFunction()
 {
     int i = 0;
-    i = i + 2;
+    i = i + 3;
     return;
 }
